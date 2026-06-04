@@ -1,0 +1,5 @@
+Metric,Value
+Accuracy_Before_Noise,0.8473396320238687
+Accuracy_After_Noise,0.8471738770097795
+Robustness_Score,99.98043818466354
+Performance_Drop,0.00016575501408921944

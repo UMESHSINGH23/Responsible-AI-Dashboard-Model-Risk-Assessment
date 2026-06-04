@@ -1,0 +1,4 @@
+Metric,Value
+Group_0_Accuracy,0.9307036247334755
+Group_1_Accuracy,0.8097185470291075
+Fairness_Gap,0.12098507770436795

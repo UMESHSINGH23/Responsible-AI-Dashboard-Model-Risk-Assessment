@@ -1,0 +1,5 @@
+Metric,Value
+Accuracy,0.84734
+Fairness_Gap,0.120985
+Robustness_Score,99.980438
+Risk_Score,10.9497124

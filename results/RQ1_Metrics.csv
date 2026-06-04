@@ -1,0 +1,7 @@
+Metric,Value
+Accuracy,0.8473396320238687
+F1,0.6685858222382152
+Fairness,0.8
+Explainability,0.9
+Robustness,0.85
+Sustainability,0.88
